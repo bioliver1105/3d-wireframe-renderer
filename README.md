@@ -2,7 +2,7 @@
 
 A Java Swing application that renders 3D triangle wireframe mesh models, with interactive rotation, scaling, back-face culling, depth-sorted rendering, and anti-aliasing -- a simple CAD-style viewer built as Assignment 2 for **159.235 (Computer Graphics)**, Massey University, 2026 S02.
 
-<img src="docs/screenshot.png" width="600">
+<img src="screenshot.png" width="600">
 
 ## Features
 
